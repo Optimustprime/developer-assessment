@@ -15,9 +15,6 @@ RUN pip install -r requirements.txt
 # Copy project files
 COPY backend .
 
-## Run migrations
-#RUN python manage.py migrate
-
 # Expose port 8000
 EXPOSE 8000
 
