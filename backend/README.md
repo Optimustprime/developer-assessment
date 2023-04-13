@@ -69,6 +69,7 @@ project/
 
 # API Endpoints
 The backend provides two API endpoints:
+
 -/graphql: This endpoint handles both queries and mutations.
 
 -/graphql/mutation: This endpoint handles mutations.
