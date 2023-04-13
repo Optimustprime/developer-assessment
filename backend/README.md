@@ -93,3 +93,11 @@ price
 
 ## To add list of drugs to database
 - run docker-compose run --rm web sh -c "python load_data.py" or python load_data.py if you are not using docker
+
+
+![ResultsFromDataBase](https://user-images.githubusercontent.com/73552453/231683870-54aaa14f-4ac8-4b67-b73f-e1c9027f25b9.png)
+![FrontEnd Result](https://user-images.githubusercontent.com/73552453/231683884-917db762-4bba-4fb9-b48e-47960c297704.png)
+![graphql_interface](https://user-images.githubusercontent.com/73552453/231683892-b7935e2a-68ca-4120-8e1a-80d7eb8b3465.png)
+
+
+
