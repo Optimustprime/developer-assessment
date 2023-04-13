@@ -5,3 +5,4 @@ graphene_django==3.0.0
 graphql-relay
 django-allauth
 django-graphql-jwt
+django-cors-headers

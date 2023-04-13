@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { Button } from '@material-ui/core';
+import { Button } from '@mui/material';
 import { CartContext } from '../contexts/CartContext';
 import CartItem from './CartItem';
 import './CartSummary.css';
