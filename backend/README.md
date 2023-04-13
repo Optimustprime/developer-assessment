@@ -70,6 +70,7 @@ project/
 # API Endpoints
 The backend provides two API endpoints:
 -/graphql: This endpoint handles both queries and mutations.
+
 -/graphql/mutation: This endpoint handles mutations.
 
 Both endpoints use the same view (GraphQLView.as_view()) but with different schema objects. The csrf_exempt decorator is used to disable CSRF protection on these endpoints.
