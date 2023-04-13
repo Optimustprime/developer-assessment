@@ -96,7 +96,7 @@ price
 
 
 ![ResultsFromDataBase](https://user-images.githubusercontent.com/73552453/231683870-54aaa14f-4ac8-4b67-b73f-e1c9027f25b9.png)
-![FrontEnd Result](https://user-images.githubusercontent.com/73552453/231683884-917db762-4bba-4fb9-b48e-47960c297704.png)
+![backend](https://user-images.githubusercontent.com/73552453/231684063-0dce4c1d-2834-4885-b0f8-32c96a19a8a8.png)
 ![graphql_interface](https://user-images.githubusercontent.com/73552453/231683892-b7935e2a-68ca-4120-8e1a-80d7eb8b3465.png)
 
 
