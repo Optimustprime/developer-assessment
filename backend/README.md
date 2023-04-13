@@ -91,5 +91,5 @@ price
 }
 }
 
-To add list of drugs to daatabase
+## To add list of drugs to database
 - run docker-compose run --rm web sh -c "python load_data.py" or python load_data.py if you are not using docker
