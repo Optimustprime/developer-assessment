@@ -51,6 +51,7 @@
 .product-price {
     font-size: 1.2rem;
     font-weight: bold;
+    margin-bottom: 30px;
 }
 
 .add-to-cart {

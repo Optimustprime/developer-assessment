@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Project Name - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the frontend for the Project Name web application. It was built using React, GraphQL, and Material UI.
 
-## Available Scripts
+## Table of Contents
+- Installation
+- Usage
+- Folder Structure
+- Contributing
+- License
+
+## Installation
 
 In the project directory, you can run:
 
@@ -68,3 +75,61 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Folder Structure
+
+├── frontend/
+
+│   ├── public/
+
+│   ├── src/
+
+│   │   ├── components/
+
+│   │   │   ├── ProductCard.js
+
+│   │   │   ├── CartItem.js
+
+│   │   │   ├── CartSummary.js
+
+│   │   │   └── ...
+
+│   │   ├── contexts/
+
+│   │   │   ├── CartContext.js
+
+│   │   │   └── ...
+
+│   │   ├── graphql/
+
+│   │   │   ├── queries.js
+
+│   │   │   └── mutations.js
+
+│   │   ├── pages/
+
+│   │   │   ├── ProductsPage.js
+
+│   │   │   ├── CartPage.js
+
+│   │   │   └── ...
+
+│   │   ├── utils/
+
+│   │   ├── App.js
+
+│   │   ├── index.js
+
+│   │   ├── theme.js
+
+│   │   └── ...
+
+│   ├── package.json
+
+│   ├── package-lock.json
+
+│   ├── README.md
+
+│   └── ...
+

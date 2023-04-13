@@ -26,27 +26,27 @@
     margin-bottom: 1rem;
 }
 
-.product-card__name {
+.product-name {
     font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 0.5rem;
     text-align: center;
 }
 
-.product-card__description {
+.product-description {
     font-size: 0.9rem;
     margin-bottom: 1rem;
     text-align: center;
 }
 
-.product-card__price {
+.product-price {
     font-size: 1.2rem;
     font-weight: bold;
     margin-bottom: 0.5rem;
     text-align: center;
 }
 
-.product-card__button {
+.product-card button {
     background-color: #007bff;
     color: #fff;
     padding: 0.5rem 1rem;
@@ -56,6 +56,6 @@
     transition: all 0.3s ease-in-out;
 }
 
-.product-card__button:hover {
+.product-card button:hover {
     background-color: #0062cc;
 }
