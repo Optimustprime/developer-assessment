@@ -82,3 +82,9 @@ Your solution will be evaluated for:
 3. User Experience (Frontend)
 4. DB Migration
 5. Tests
+
+# Screenshots
+
+![ResultsFromDataBase](https://user-images.githubusercontent.com/73552453/231683870-54aaa14f-4ac8-4b67-b73f-e1c9027f25b9.png)
+![backend](https://user-images.githubusercontent.com/73552453/231684063-0dce4c1d-2834-4885-b0f8-32c96a19a8a8.png)
+![graphql_interface](https://user-images.githubusercontent.com/73552453/231683892-b7935e2a-68ca-4120-8e1a-80d7eb8b3465.png)
